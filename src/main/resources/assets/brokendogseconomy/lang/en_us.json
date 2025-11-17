@@ -1,0 +1,13 @@
+{
+  "itemGroup.brokendogseconomy": "Example Mod Tab",
+  "block.brokendogseconomy.example_block": "Example Block",
+  "item.brokendogseconomy.example_item": "Example Item",
+
+  "brokendogseconomy.configuration.title": "BrokenDogs Economy Configs",
+  "brokendogseconomy.configuration.section.brokendogseconomy.common.toml": "BrokenDogs Economy Configs",
+  "brokendogseconomy.configuration.section.brokendogseconomy.common.toml.title": "BrokenDogs Economy Configs",
+  "brokendogseconomy.configuration.items": "Item List",
+  "brokendogseconomy.configuration.logDirtBlock": "Log Dirt Block",
+  "brokendogseconomy.configuration.magicNumberIntroduction": "Magic Number Text",
+  "brokendogseconomy.configuration.magicNumber": "Magic Number"
+}
