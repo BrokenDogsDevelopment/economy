@@ -1,5 +1,3 @@
-# economy
-Economy system for the BrokenDogs MC server
 # BrokenDogs Economy
 A lightweight, configurable DogCoin currency system for NeoForge 1.21.1
 
@@ -68,7 +66,7 @@ Players earn DogCoins proportional to mob difficulty.
 
 Formula:
 
-reward = `round((mob_max_health / 2) * mobKillReward)`
+`reward = round((mob_max_health / 2) * mobKillReward)`
 
 Where mobKillReward = DogCoins per heart (configurable).
 
